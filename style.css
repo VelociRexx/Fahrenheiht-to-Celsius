@@ -20,6 +20,7 @@ body {
 #btn {
   padding: 10px 20px;
   background-color: #26d978;
+  border-color: black;
 }
 html {
   background-color: whitesmoke;
